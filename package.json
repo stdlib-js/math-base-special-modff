@@ -42,6 +42,7 @@
   "dependencies": {
     "@stdlib/constants-float32-exponent-bias": "^0.2.2",
     "@stdlib/constants-float32-exponent-mask": "^0.2.2",
+    "@stdlib/constants-float32-num-significand-bits": "github:stdlib-js/constants-float32-num-significand-bits#main",
     "@stdlib/constants-float32-pinf": "^0.2.2",
     "@stdlib/constants-float32-significand-mask": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
