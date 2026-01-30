@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-modff",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Decompose a single-precision floating-point number into integral and fractional parts.",
   "license": "Apache-2.0",
   "author": {
@@ -42,20 +42,20 @@
   "dependencies": {
     "@stdlib/constants-float32-exponent-bias": "^0.2.2",
     "@stdlib/constants-float32-exponent-mask": "^0.2.2",
-    "@stdlib/constants-float32-num-significand-bits": "github:stdlib-js/constants-float32-num-significand-bits#main",
+    "@stdlib/constants-float32-num-significand-bits": "^0.1.0",
     "@stdlib/constants-float32-pinf": "^0.2.2",
-    "@stdlib/constants-float32-significand-mask": "^0.2.2",
+    "@stdlib/constants-float32-significand-mask": "^0.2.3",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-float": "^0.2.2",
     "@stdlib/napi-argv-float32array": "^0.2.2",
-    "@stdlib/napi-export": "^0.2.2",
+    "@stdlib/napi-export": "^0.3.0",
     "@stdlib/number-float32-base-from-word": "^0.2.2",
     "@stdlib/number-float32-base-to-word": "^0.2.2",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-float32": "^0.2.2",
